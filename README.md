@@ -1,6 +1,8 @@
 # Тестовое задание PlanFact (frontend)
 
-1 Сверстать страницу на основе [макета](https://www.figma.com/file/b3L1Np4RYiicZAOMopHNkm/react-material-dashboard-free?node-id=0%3A1076).
+
+## Основная часть ##
+Сверстать страницу на основе [макета](https://www.figma.com/file/b3L1Np4RYiicZAOMopHNkm/react-material-dashboard-free?node-id=0%3A1076).
   
  - Сверстать основной layout и таблицу: 
   
@@ -19,7 +21,7 @@
  - В попапе должны быть поля присутствующие в таблице;
 
 
-2 Плюсом будет:
+## Дополнительная часть ##
 
 - Добавление новой строки в таблицу
 
