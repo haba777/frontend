@@ -37,7 +37,7 @@
 
 - Будет плюсом использование сборщиков; 
 
-- Используй чистый JS или jQuery;
+- Используй jQuery || Angular2+ || React || JS;
 
 - Работоспособность в 5-ти последних версиях браузеров Firefox/Google Chrome/Opera/Yandex Browser;
 
