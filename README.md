@@ -1,5 +1,6 @@
 # Тестовое задание PlanFact (frontend)
-![alt text](https://github.com/planfact/frontend/raw/master/popup.png)
+![popup](https://github.com/planfact/frontend/raw/master/popup.png)
+![popup](https://github.com/planfact/frontend/raw/master/table.png)
 ## Условия
 
 - Будет плюсом использование сборщиков 
