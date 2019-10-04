@@ -1,7 +1,6 @@
 # Тестовое задание PlanFact (frontend)
-- Сверстать страницу на основе [макета](https://www.figma.com/file/b3L1Np4RYiicZAOMopHNkm/react-material-dashboard-free?node-id=0%3A1076).
-
-![popup](https://github.com/planfact/frontend/raw/master/table.png)
+1 Сверстать страницу на основе [макета](https://www.figma.com/file/b3L1Np4RYiicZAOMopHNkm/react-material-dashboard-free?node-id=0%3A1076).
+  - Сверстать основной layout и таблицу ![table](https://github.com/planfact/frontend/raw/master/table.png)
 
 
 ![popup](https://github.com/planfact/frontend/raw/master/popup.png)
